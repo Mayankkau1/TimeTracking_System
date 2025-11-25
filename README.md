@@ -1,42 +1,21 @@
-----------------Overview-----------------------
+---------Overview-------------
 
-The Library Seat Reservation System is a web-based platform designed to replace manual seat booking in libraries.
-It helps students check seat availability, make reservations, and manage check-in/check-out, while admins can handle all reservations and seat management from one place.
+The Tracking Management System is a simple application that helps users record their daily tasks and allows admins to monitor and manage all activity logs. It aims to replace manual tracking with a more organized and efficient digital system.
 
-------------Problem Statement--------------------
+------------Features-------------
+===>USER
 
-Many libraries still use manual methods for seat reservation, which causes:
+Add task logs with start and end time
 
-Seats getting double-booked or left unused
+View personal activity history
 
-Time wasted by staff and students during manual coordination
+====>Admin
 
-No real-time view of seat availability
+View all user logs
 
-No option for remote booking or changes
+Edit or remove incorrect entries
 
-This project aims to remove these issues by providing a simple digital solution.
-
-Features
-🔹-----------User Features------------------
-
-Check real-time seat availability
-
-Reserve a seat for selected time slots
-
-Check-in and check-out
-
-View active and previous reservations
-
-🔹 -------------Admin Features---------------
-
-View and manage all reservations
-
-Approve, modify, or cancel bookings
-
-Block seats for maintenance
-
-Add and manage user accounts
+Manage user accounts
 
 ----------Tech Stack------------
 
